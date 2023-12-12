@@ -16,17 +16,29 @@ which form a multi-tier architecture.
 
 ## AWS Services used in project are:
 1.VPC
+
 2.EC2
+
 3.IAM ROLE
+
 4.DYNAMO DB
+
 5.CLOUD WATCH
+
 6.SNS CONSOLE
+
 7.S3
+
 8.LAMBDA
+
 9.SNAPSHOT
+
 10.CLOUDSHELL
+
 11.DOCKERHUB
+
 12.RDS
+
 ## DETAILED INFO:
 In first account :- Dynamo DB , CloudWatch, SNS are the services that are used,using those major services monitored the readcapacity of a instance and sent mail to the subscriber using sns...
 
